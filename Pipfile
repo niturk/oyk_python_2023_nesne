@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 requests = "~=2.30.0"
 pipenv-check = "*"
+pyside6 = "*"
 
 [dev-packages]
 
